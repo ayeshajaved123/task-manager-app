@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822577561460",
+    "project_id": "smart-community-safety-2f5e4",
+    "storage_bucket": "smart-community-safety-2f5e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822577561460:android:ec4631066bc0c2c2707621",
+        "android_client_info": {
+          "package_name": "com.example.smart_community_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxQtre7ffejOtJJzdgk-BGcAQ7ll-yRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
